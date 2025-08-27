@@ -120,7 +120,3 @@ aiming to provide a simple but complete car rental management software suitable 
 - PyQt5 & Qt Documentation  
 - SQLite Official Documentation  
 - GitHub Open Source Community  
-
----
-
-👉 要不要我帮你再写一个 **requirements.txt** 内容（比如 `PyQt5`, `pytz`, `pyinstaller`, `PyQtWebEngine`），省得别人手动找依赖？
